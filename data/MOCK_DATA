@@ -1,0 +1,146 @@
+export const rec_channels = [
+  {
+    "id": 1,
+    "avatar": "https://robohash.org/quovoluptatemvoluptates.png?size=50x50&set=set1",
+    "username": "tdymond0",
+    "game_name": "Tampflex",
+    "rank": 71
+  },
+  {
+    "id": 2,
+    "avatar": "https://robohash.org/quiscorruptivoluptatibus.png?size=50x50&set=set1",
+    "username": "estanbridge1",
+    "game_name": "Y-Solowarm",
+    "rank": 1
+  },
+  {
+    "id": 3,
+    "avatar": "https://robohash.org/eosautiste.png?size=50x50&set=set1",
+    "username": "aegle2",
+    "game_name": "Tampflex",
+    "rank": 13
+  },
+  {
+    "id": 4,
+    "avatar": "https://robohash.org/sapientenullaprovident.png?size=50x50&set=set1",
+    "username": "sdrabble3",
+    "game_name": "Fintone",
+    "rank": 70
+  },
+  {
+    "id": 5,
+    "avatar": "https://robohash.org/dolorfugaut.png?size=50x50&set=set1",
+    "username": "vballance4",
+    "game_name": "Bamity",
+    "rank": 25
+  },
+  {
+    "id": 6,
+    "avatar": "https://robohash.org/inventoresedsint.png?size=50x50&set=set1",
+    "username": "mleball5",
+    "game_name": "Toughjoyfax",
+    "rank": 81
+  },
+  {
+    "id": 7,
+    "avatar": "https://robohash.org/utremratione.png?size=50x50&set=set1",
+    "username": "psanbrook6",
+    "game_name": "Asoka",
+    "rank": 19
+  },
+  {
+    "id": 8,
+    "avatar": "https://robohash.org/sitvelnihil.png?size=50x50&set=set1",
+    "username": "fhubback7",
+    "game_name": "Quo Lux",
+    "rank": 31
+  },
+  {
+    "id": 9,
+    "avatar": "https://robohash.org/pariaturfacilisaliquam.png?size=50x50&set=set1",
+    "username": "vpickvance8",
+    "game_name": "Stringtough",
+    "rank": 27
+  },
+  {
+    "id": 10,
+    "avatar": "https://robohash.org/porrocorruptieum.png?size=50x50&set=set1",
+    "username": "lwestphalen9",
+    "game_name": "Lotstring",
+    "rank": 76
+  }
+]
+
+export const top_channels = [
+    {
+      "id": 1,
+      "avatar": "https://robohash.org/quovoluptatemvoluptates.png?size=50x50&set=set1",
+      "username": "tdymond0",
+      "game_name": "Tampflex",
+      "rank": 71
+    },
+    {
+      "id": 2,
+      "avatar": "https://robohash.org/quiscorruptivoluptatibus.png?size=50x50&set=set1",
+      "username": "estanbridge1",
+      "game_name": "Y-Solowarm",
+      "rank": 1
+    },
+    {
+      "id": 3,
+      "avatar": "https://robohash.org/eosautiste.png?size=50x50&set=set1",
+      "username": "aegle2",
+      "game_name": "Tampflex",
+      "rank": 13
+    },
+    {
+      "id": 4,
+      "avatar": "https://robohash.org/sapientenullaprovident.png?size=50x50&set=set1",
+      "username": "sdrabble3",
+      "game_name": "Fintone",
+      "rank": 70
+    },
+    {
+      "id": 5,
+      "avatar": "https://robohash.org/dolorfugaut.png?size=50x50&set=set1",
+      "username": "vballance4",
+      "game_name": "Bamity",
+      "rank": 25
+    },
+    {
+      "id": 6,
+      "avatar": "https://robohash.org/inventoresedsint.png?size=50x50&set=set1",
+      "username": "mleball5",
+      "game_name": "Toughjoyfax",
+      "rank": 81
+    },
+    {
+      "id": 7,
+      "avatar": "https://robohash.org/utremratione.png?size=50x50&set=set1",
+      "username": "psanbrook6",
+      "game_name": "Asoka",
+      "rank": 19
+    },
+    {
+      "id": 8,
+      "avatar": "https://robohash.org/sitvelnihil.png?size=50x50&set=set1",
+      "username": "fhubback7",
+      "game_name": "Quo Lux",
+      "rank": 31
+    },
+    {
+      "id": 9,
+      "avatar": "https://robohash.org/pariaturfacilisaliquam.png?size=50x50&set=set1",
+      "username": "vpickvance8",
+      "game_name": "Stringtough",
+      "rank": 27
+    },
+    {
+      "id": 10,
+      "avatar": "https://robohash.org/porrocorruptieum.png?size=50x50&set=set1",
+      "username": "lwestphalen9",
+      "game_name": "Lotstring",
+      "rank": 76
+    }
+  ]
+  
